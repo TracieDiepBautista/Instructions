@@ -10,7 +10,7 @@ Another Project using Javascript but this time to do geo-mapping with Leaflet.js
     the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods 
     and tools to supply timely, relevant, and useful information about the Earth and its processes. 
     
-    ![1-Logo](https://user-images.githubusercontent.com/93897775/167340003-d47e9143-8284-4af0-a659-b8af8eb0ea69.png)
+   ![1-Logo](https://user-images.githubusercontent.com/93897775/167340003-d47e9143-8284-4af0-a659-b8af8eb0ea69.png)
 
     
     - The task: helping USGS out with an building a new set of tools that will allow them to visualize their earthquake data. 
