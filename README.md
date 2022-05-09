@@ -9,6 +9,10 @@ Another Project using Javascript but this time to do geo-mapping with Leaflet.js
     United States Geological Survey, or USGS for short. The USGS is responsible for providing scientific data about natural hazards, 
     the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods 
     and tools to supply timely, relevant, and useful information about the Earth and its processes. 
+    
+    ![1-Logo](https://user-images.githubusercontent.com/93897775/167340003-d47e9143-8284-4af0-a659-b8af8eb0ea69.png)
+
+    
     - The task: helping USGS out with an building a new set of tools that will allow them to visualize their earthquake data. 
       They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. 
       Their hope is that being able to visualize their data will allow them to better educate the public and other government 
@@ -22,7 +26,10 @@ Another Project using Javascript but this time to do geo-mapping with Leaflet.js
       reflect the magnitude of the earthquake by their size and and depth of the earthquake by color.
     - Layer controls to be added.
     - Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
-    
+   
+   ![5-Advanced](https://user-images.githubusercontent.com/93897775/167340026-03093473-30eb-44db-b4dd-f35a94692a28.png)
+
+
     
 ```diff
 - Tools used: 
